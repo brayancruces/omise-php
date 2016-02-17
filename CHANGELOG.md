@@ -1,5 +1,10 @@
 # Change Log
 
+An [unreleased] version is not available on `master` branch and is subject to changes and must not be considered final. Elements of unreleased list may be edited or removed at any time.
+
+## [unreleased]
+- [Added] Add OmiseEvent class to support Omise's Event API.
+
 ## [2.4.1] 2015-12-03
 - [Added] Add fetching options to customer cards (bde7986)
 
